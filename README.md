@@ -4,6 +4,8 @@
  
  # Ürün Hakkında
  
+ ![logo](https://github.com/OmerFarukSozer/Bootcamp-Flutter-Tak-m-157/blob/main/TEST%20Q.png)
+ 
  Ürünümüz çocuklara uygun biçimde tasarlanmış bir bilgi testi oyunudur. İçerisinde varolan içeriklerin ve soruların çocukların bilim ve eğitime ilgisini arttırmayı ve eğlenmesini sağlayarak oluşturulması amaçlanmaktadır. Uygulama arayüzü çoçuklara uygun görsel ve şekilleri barındıracak biçimde diyazn edilmesi planlanmaktadır.
  
  ## Takım Elemanları
