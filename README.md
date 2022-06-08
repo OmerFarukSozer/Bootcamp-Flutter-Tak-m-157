@@ -1,51 +1,16 @@
-#  **Bootcamp Flutter Takım 157**
+# test_q
 
-**Reac-Team**
- 
- # Ürün Hakkında
- 
- ![logo](https://github.com/OmerFarukSozer/Bootcamp-Flutter-Tak-m-157/blob/main/TEST%20Q.png)
- 
- Ürünümüz çocuklara uygun biçimde tasarlanmış bir bilgi testi oyunudur. İçerisinde varolan içeriklerin ve soruların çocukların bilim ve eğitime ilgisini arttırmayı ve eğlenmesini sağlayarak oluşturulması amaçlanmaktadır. Uygulama arayüzü çoçuklara uygun görsel ve şekilleri barındıracak biçimde diyazn edilmesi planlanmaktadır.
- 
- ## Takım Elemanları
- 
- - Sevgi Yılmaz: Scrum master/Ekip Üyesi/Geliştirici
- - Ömer Faruk Sözer: Ürün Sahibi/Ekip Üyesi/Geliştirici
- 
- ## Ürün İsmi
+A new Flutter project.
 
---Test Q--
+## Getting Started
 
-## Ürün Açıklaması
+This project is a starting point for a Flutter application.
 
-- Test Q uygulaması için gelişim düzeyindeki çocukların eğlenerek öğrenmesini ve araştırmacı kişilik özelliklerine sahip olmalarını amaçlamaktayız.
+A few resources to get you started if this is your first Flutter project:
 
-## Ürün Özellikleri
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-- Farklı konular hakkında ilginç sorular içermesi.
-- Çocuklara uygun arayüzü sayesinde eğlenceli olması.
-- Yanlış yapılan soruların kullanıcıya aktarımının uygun biçimde yapılması. 
-
-## Hedef Kitle
-
-- 5 ila 12 yaş grubundaki çocuk akıllı cihaz kullanıcıları.
-- Eğitici ve eğlendirici basit sorular ile farklı alanlarda bilgiler öğrenmek isteyen herkes.
-
-## Kullanıcı Hikayesi
-- Öğretici, eğitici ve eğlendirici bilgiler öğrenmek istiyorum ve bunun için bir  uygulamaya arıyorum.
-- Bir ebeveyn olarak çocuklarımın dijital cihazları kullanırken eğitici ve eğlendirici aktiviteler yapmasını istiyorum.
-
-  
-  ---
-  
-  # Sprint 
-
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
-
-- **Puan tamamlama mantığı**: Projemiz için toplamda iki sprint yapmayı ve ara ara hızlı toplantılar düzenleyerek süreci tamamlamayı hedefliyoruz.
-  
-
-
-
- 
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
